@@ -1,11 +1,20 @@
-# Snap-Sets  (: Blender Addon :)
+# Snap-Sets 
 
-Pivot and Snap Functions changes for respective task at the same time 
+This Sets change the Pivot and Snap Functions for respective task at the same time.
 
-For more Information go to the Wiki TAB, please!
+![snap_sets](https://lh6.googleusercontent.com/-rnv_sOTXEM8/V23i19OnBVI/AAAAAAAAI_E/Bzgm39z1CEMW8vqj5pqiTlXxqNX6xQ4mwCL0B/w162-h182-no/snap_sets.png)
+[Download](https://github.com/mkbreuer/Snap-Sets/raw/master/view3d_snap_sets.py)
 
-https://github.com/mkbreuer/Snap-Sets/wiki
+The default shortcut for this menu is [ALT+TWO]
 
-Or got to the blenderartist thread:
+## Install the Addon:
+
+After downloading the file follow the instructions for installation in the blender manual :
+
+https://www.blender.org/manual/advanced/scripting/python/addons.html?highlight=addons
+
+If you download the master zip, extract the zip file and search for the "view3d_snap_sets.py"
+
+## The blenderartist thread:
 
 http://blenderartists.org/forum/showthread.php?401729-MENU-Snap-Sets
