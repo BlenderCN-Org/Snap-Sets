@@ -133,11 +133,11 @@ class VIEW3D_Snapset_Closest_Vert(bpy.types.Operator):
 
     def execute(self, context):            
 
-        bpy.context.space_data.pivot_point = 'CLOSEST'            
+        bpy.context.space_data.pivot_point = 'MEDIAN_POINT'            
         
         bpy.context.scene.tool_settings.use_snap = True
         bpy.context.scene.tool_settings.snap_element = 'VERTEX'
-        bpy.context.scene.tool_settings.snap_target = 'ACTIVE'
+        bpy.context.scene.tool_settings.snap_target = 'CLOSEST'
         bpy.context.scene.tool_settings.use_snap_align_rotation = False       
  
         return {'FINISHED'}
