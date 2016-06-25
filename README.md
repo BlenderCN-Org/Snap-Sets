@@ -7,7 +7,7 @@ This Sets change the Pivot and Snap Functions for respective task at the same ti
 
 The default shortcut for this menu is [ALT+TWO]
 
-See the differnts in the Wiki:
+See the differents in the Wiki:
 https://github.com/mkbreuer/Snap-Sets/wiki
 
 ## Install the Addon:
