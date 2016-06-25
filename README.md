@@ -1,4 +1,4 @@
-# Snap-Sets 
+# Snap-Sets :) 
 
 This Sets change the Pivot and Snap Functions for respective task at the same time.
 
