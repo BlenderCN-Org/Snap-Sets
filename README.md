@@ -1,4 +1,4 @@
-# Snap-Sets  (: Blender Menu addon :)
+# Snap-Sets  (: Blender Addon :)
 
 Pivot and Snap Functions changes for respective task at the same time 
 
