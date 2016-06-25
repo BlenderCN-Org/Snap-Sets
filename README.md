@@ -3,7 +3,7 @@
 This Sets change the Pivot and Snap Functions for respective task at the same time.
 
 ![snap_sets](https://lh6.googleusercontent.com/-rnv_sOTXEM8/V23i19OnBVI/AAAAAAAAI_E/Bzgm39z1CEMW8vqj5pqiTlXxqNX6xQ4mwCL0B/w162-h182-no/snap_sets.png)
-[Download](https://github.com/mkbreuer/Snap-Sets/raw/master/view3d_snap_sets.py)
+[Download](https://raw.githubusercontent.com/mkbreuer/Snap-Sets/master/view3d_snap_sets.py)
 
 The default shortcut for this menu is [ALT+TWO]
 
