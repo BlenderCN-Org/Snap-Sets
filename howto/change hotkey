@@ -1,0 +1,31 @@
+
+Change default hotkey for the Menu
+-------------------------------------------
+
+File    > view3d_snap_set.py
+
+-------------------------------------------
+
+> run blender
+
+> go to > file > blender user preferences [CTRL+ALT+U] > tab input
+
+> search > use key-binding > write: alt two 
+
+---------------------------------------
+
+Search Result:
+
+3D View
+
+"Call Menu - Keyboard [ALT+TWO]"
+
+wm.call_menu
+
+idname = snap_menu.pivot_snap
+
+-------------------------------------------
+
+Create > change the hotkey to every shortcut you like
+
+Save > to have the new hotkey on each blender start, press "Save User Setting" at the bottom
