@@ -5,6 +5,8 @@ This Sets change the Pivot and Snap Functions for respective task at the same ti
 ![snap_sets](https://lh6.googleusercontent.com/-rnv_sOTXEM8/V23i19OnBVI/AAAAAAAAI_E/Bzgm39z1CEMW8vqj5pqiTlXxqNX6xQ4mwCL0B/w162-h182-no/snap_sets.png)
 [Download with save target as...](https://raw.githubusercontent.com/mkbreuer/Snap-Sets/master/view3d_snap_sets.py)
 
+or get the neweset Version from the T+ Repository: [SnapSet v0.2](https://github.com/mkbreuer/ToolPlus/raw/master/2.79/Sets/zip/toolplus_snapset_v0.2.zip)
+
 The default shortcut for this menu is [ALT+TWO]
 
 See the differents in the Wiki:
