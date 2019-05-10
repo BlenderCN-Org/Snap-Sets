@@ -9,7 +9,7 @@ or get the neweset Version from the T+ Repository:
 
 [SnapSet v0.21](https://github.com/mkbreuer/ToolPlus/raw/master/2.79/Sets/zip/toolplus_snapset_v0.21.zip)
  
-[SnapSet v0.02 for 2.80](https://github.com/mkbreuer/ToolPlus/raw/master/2.80/Sets/view3d_snapset_v002.zip)
+[SnapSet v0.02 for 2.80  fully customizeable](https://github.com/mkbreuer/ToolPlus/raw/master/2.80/Sets/view3d_snapset_v002.zip)
 
 The default shortcut for this menu is [ALT+TWO]
 
